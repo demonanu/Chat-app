@@ -137,12 +137,12 @@ function SideDrawer() {
           <Button variant="ghost" onClick={onOpen}>
             <i className="fas fa-search"></i>
             <Text d={{ base: "none", md: "flex" }} px={4}>
-              Search User
+              Search Random
             </Text>
           </Button>
         </Tooltip>
-        <Text fontSize="2xl" fontFamily="Work sans">
-          Talk-A-Tive
+        <Text fontSize="2xl" fontFamily="Work sans bold">
+          CHATLOOM
         </Text>
         <div>
           <Menu>

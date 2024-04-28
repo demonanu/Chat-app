@@ -60,13 +60,13 @@ const MyChats = ({ fetchAgain }) => {
         pb={3}
         px={3}
         fontSize={{ base: "28px", md: "30px" }}
-        fontFamily="Work sans"
+        fontFamily="Work sans bold"
         d="flex"
         w="100%"
         justifyContent="space-between"
         alignItems="center"
       >
-        My Chats
+        Chats
         <GroupChatModal>
           <Button
             d="flex"
